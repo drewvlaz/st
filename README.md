@@ -1,4 +1,4 @@
-# Luke's build of st - the simple (suckless) terminal
+# Drew's build of st - the simple (suckless) terminal
 
 The [suckless terminal (st)](https://st.suckless.org/) with some additional features:
 
@@ -29,7 +29,7 @@ The following additional bindings were added before I forked this:
 ## Installation for newbs
 
 ```
-git clone https://github.com/LukeSmithxyz/st
+git clone https://github.com/drewvlaz/st
 cd st
 sudo make install
 ```
@@ -70,5 +70,5 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 ## Contact
 
-- Luke Smith <luke@lukesmith.xyz>
+- Drew Vlasnik <314dsv@gmail.com>
 - [https://lukesmith.xyz](https://lukesmith.xyz)
