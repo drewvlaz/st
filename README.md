@@ -71,4 +71,3 @@ Note that when you run `wal`, it will negate the transparency of existing window
 ## Contact
 
 - Drew Vlasnik <314dsv@gmail.com>
-- [https://lukesmith.xyz](https://lukesmith.xyz)
